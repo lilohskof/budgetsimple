@@ -4,7 +4,7 @@ BudgetSimple MG
 
 Une application de budget simple, gratuite et hors connexion, pensée pour le téléphone. Saisissez vos revenus et vos dépenses avec leur fréquence : l'application calcule la moyenne par mois, le solde, le taux d'épargne et vous montre où va votre argent.
 
-👉 Utiliser l'application : https://VOTRE-NOM.github.io/budgetsimple/
+👉 Utiliser l'application : https://lilohskof.github.io/budgetsimple/
 
 Aucun compte, aucune donnée bancaire, aucun serveur : tout reste dans votre téléphone.
 
